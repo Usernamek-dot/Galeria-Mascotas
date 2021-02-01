@@ -69,7 +69,7 @@ export default function Lugares() {
                         The most Common animals In Colombia are Pink Dolphins, Belly Monkey and Metallic Lizards.
             </Typography>
                 </AccordionDetails>
-                <Button component={Link} title="ruta con parametros"  href="/mascotas/Colombia" color="inherit">Ir a  de Colombia</Button>
+                <Button component={Link} title="ruta con parametros"  href="/mascotas/Colombia" color="inherit">Ir a Animales  de Colombia</Button>
 
             </Accordion>
             <Accordion>
